@@ -1,0 +1,28 @@
+.button{
+    background-color: rgb(237, 174, 48);
+    border-color: orange;
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.subtotal__items{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.subtotal__checkbox{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.subtotal__button{
+   text-align: center;
+}
+
+.subtotal{
+    margin: 10px;
+    background-color: rgb(209, 203, 203);
+    padding: 10px;
+    border-radius: 5px;
+}
+
