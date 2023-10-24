@@ -1,4 +1,4 @@
-# Amazon-E-commerce
+# ShopXpert
 * ## It is an amazon e-commerce website clone with similar functionality but has a new user experience.
 ## Screenshots
 ![](screenshot/Screenshot%20(18).png)
